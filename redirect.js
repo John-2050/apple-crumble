@@ -1,0 +1,1 @@
+location.replace("https://classroom.google.com/u/0/")
